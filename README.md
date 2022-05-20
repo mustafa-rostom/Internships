@@ -28,9 +28,9 @@ Star and Watch the repo and pull new changes regularly.
 |[ARPU PLUS](https://wuzzuf.net/internship/wzzGmxTqK2eV-IT-Intern-ARPUPLUS-Giza-Egypt?o=4&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) |Giza - Egypt| Open - IT Intern - <b>Paid Intern</b>|
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|✔️
 |[Blink22](https://blink22.com/) | Alexandria |  |✔️
-|[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
-|[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000012296723/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data analysis Intern|
-|[Block Gemini](https://wuzzuf.net/internship/rOmNkyzFDI9p-Sales-Engineer---Software-Development-Intern-Block-Gemini-Giza-Egypt)| cairo |  Open - <b> Paid Intern </b></b> - Deadline: 22/5/2022 |
+|[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |❌
+|[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000012296723/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data analysis Intern|❌
+|[Block Gemini](https://wuzzuf.net/internship/rOmNkyzFDI9p-Sales-Engineer---Software-Development-Intern-Block-Gemini-Giza-Egypt)| cairo |  Open - <b> Paid Intern </b></b> - Deadline: 22/5/2022 |✔️
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open |
 |[Coformatique](https://www.facebook.com/coformatique/posts/pfbid032tNP1Wc8zBpBiR9MjjPWitSXrWUnocDBq71kwDGnQUjnW8gpDRCjFLuKPriM32WQl) | Cairo |Open- deadline: 1/6/2022|
