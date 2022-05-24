@@ -64,9 +64,9 @@ Star and Watch the repo and pull new changes regularly.
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Open - Software Engineering Intern (Backend)|❌
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |✔️
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |✔️
-|[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |
-|[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |  Open <b> - Deadline: 26/5/2022 |
-|[Tatbeek](https://www.tatbeek.com/ar/jobs/detail/software-engineer-internship-26) | Smart Village or Remotely | Open |
+|[SMC](https://docs.google.com/forms/d/e/1FAIpQLScxB95pTrMZzc2wH7BSS76n3gGKvIYglbcLv-EC2v7koW5Wfg/viewform)| cairo | Open- <b>Unpaid Intern |❌
+|[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |  Open <b> - Deadline: 26/5/2022 |✔️
+|[Tatbeek](https://www.tatbeek.com/ar/jobs/detail/software-engineer-internship-26) | Smart Village or Remotely | Open |✔️
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |
 |[Trianglz](https://docs.google.com/forms/d/e/1FAIpQLSdDhKwl9dYy2SgRaUUbJV7Dmw47jH2HeT22TduZpxIUB_U7kg/viewform) | Alexandria |Open - Deadline:31/5/2022|
