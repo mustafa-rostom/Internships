@@ -70,10 +70,10 @@ Star and Watch the repo and pull new changes regularly.
 |[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |❌
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |❌
 |[Trianglz](https://docs.google.com/forms/d/e/1FAIpQLSdDhKwl9dYy2SgRaUUbJV7Dmw47jH2HeT22TduZpxIUB_U7kg/viewform) | Alexandria |Open - Deadline:31/5/2022|✔️
-|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
-|[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |
-|[WebsOps](https://careers.thewebops.com/index.php/ads/summer-internship/?fbclid=IwAR2-lSriess4JxMJowkCPOMIV_gGetjxhOkqa7oolHGGv-H5zU4deKJD-I8) | Cairo | Open |
-|[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
+|[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |❌
+|[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |❌
+|[WebsOps](https://careers.thewebops.com/index.php/ads/summer-internship/?fbclid=IwAR2-lSriess4JxMJowkCPOMIV_gGetjxhOkqa7oolHGGv-H5zU4deKJD-I8) | Cairo | Open |❌
+|[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |❌
 
 
 
